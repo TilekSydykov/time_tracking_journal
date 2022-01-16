@@ -8,6 +8,18 @@ and calculates all time spend inside of building. System can be turned off or tu
 
 ## Functionality
 
+On the left side we have list of emplyees and on the right select for days and time counter. 
 
+![screenshot 1](https://github.com/TilekSydykov/time_tracking_journal/blob/main/img/1.jpg?raw=true)
 
+On the left bottom we have form to add new employee to the list.
+![screenshot 1](https://github.com/TilekSydykov/time_tracking_journal/blob/main/img/2.jpg?raw=true)
 
+On the right top is day selector to select which day to show in journal. 
+![screenshot 1](https://github.com/TilekSydykov/time_tracking_journal/blob/main/img/3.jpg?raw=true)
+
+Buttons "left" and "came" marks users present or not present to track their time.
+![screenshot 1](https://github.com/TilekSydykov/time_tracking_journal/blob/main/img/4.jpg?raw=true)
+
+Total time is shown on top of buttons.
+![screenshot 1](https://github.com/TilekSydykov/time_tracking_journal/blob/main/img/5.jpg?raw=true)
