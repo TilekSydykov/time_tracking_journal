@@ -1,0 +1,10 @@
+C:\Users\dosla\source\repos\Journal\obj\Debug\Journal.csproj.AssemblyReference.cache
+C:\Users\dosla\source\repos\Journal\obj\Debug\Journal.Properties.Resources.resources
+C:\Users\dosla\source\repos\Journal\obj\Debug\Journal.csproj.GenerateResource.cache
+C:\Users\dosla\source\repos\Journal\obj\Debug\Journal.csproj.CoreCompileInputs.cache
+C:\Users\dosla\source\repos\Journal\bin\Debug\Journal.exe.config
+C:\Users\dosla\source\repos\Journal\bin\Debug\Journal.exe
+C:\Users\dosla\source\repos\Journal\bin\Debug\Journal.pdb
+C:\Users\dosla\source\repos\Journal\obj\Debug\Journal.Journal.resources
+C:\Users\dosla\source\repos\Journal\obj\Debug\Journal.exe
+C:\Users\dosla\source\repos\Journal\obj\Debug\Journal.pdb
